@@ -6,12 +6,12 @@
 
 Install NodeJS dependencies
 
-		`npm install`
+		npm install
 
 ## Usage
 
 You can open the test runner by using this command : 
 
-		`npx cypress open`
+		npx cypress open
 
 After this, launch the tests through the cypress test runner interface
